@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot (9).png)
+![](https://github.com/Godstime01/Advice-generator-app/blob/master/images/Screenshot%20(9).png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Godstime01/Advice-generator-app/blob/master/images/Screenshot%20(9).png)
-- Live Site URL: [Add live site URL here](https://godstime01.github.io/Advice-generator-app/)
+- Solution URL: [ see solution](https://www.frontendmentor.io/solutions/advice-generator-app-LRzkWznUx)
+- Live Site URL: [live site](https://godstime01.github.io/Advice-generator-app/)
 
 ## My process
 
